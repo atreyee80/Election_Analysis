@@ -1,8 +1,9 @@
 # Election_Analysis
-![](analysis/Total_votes.png?raw=true)
+
 
 
 ##Project Overview
+
    A Colorado Board of Election employee  Tom has given a project to us in order to complete the
    election audit of a recent local congressional election for Colarado.The result need to be analyze 
    from  a tabulated results and presented in a form that shows the following details.
