@@ -34,7 +34,7 @@ There will be three ways to calculate for voting
 The analysis of the election show that:
 -There  were 369,711 votes cast in the election.
 
-![](Analysis/Total_votes.png?raw=true)
+![](analysis/Total_votes.png?raw=true)
 
 -The analysis shows that the county are:
   Jefferson
@@ -51,19 +51,19 @@ The analysis of the election show that:
 -The Denver county received "82.8%" of the vote and 306,055 number of votes.
 -The Arapahoe county received "6.7%" of the vote and 24,801 number of votes.
 
- ![](Analysis/County_results.png?raw=true)
+ ![](analysis/County_results.png?raw=true)
  
 -The candidate results were:
 -The Charles Casper Stockham received "23.0%" of the vote and 85,213 number of votes.
 -The Diana DeGette received "73.8%" of the vote and 272,892 number of votes.
 -The Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 
- ![](Analysis/Candidate_results.png?raw=true)
+ ![](analysis/Candidate_results.png?raw=true)
  
 -The winner of the election was:
  Diana DeGette received who received "73.8%" of the vote and 272,892 number of votes.
  
-![](Analysis/Winner_candidate.png?raw=true)
+![](analysis/Winner_candidate.png?raw=true)
 
  ##Challenge Overview
 
