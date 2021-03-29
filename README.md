@@ -12,15 +12,14 @@
 
 
    1.Calculate the Total number of votes cast.
-   2.
-   3.
-   4.Get a complete list of candidates who received votes.
-   5.
-   6.Calculate the total number of votes each candidate received.
-   7.
-   8.Calculate the percentage of votes each candidate won.
-   9.
-   10.Determine the winner of the election based on popular vote.
+  
+   2.Get a complete list of candidates who received votes.
+   
+   3.Calculate the total number of votes each candidate received.
+   
+   4.Calculate the percentage of votes each candidate won.
+   
+   5.Determine the winner of the election based on popular vote.
 
 ##Resources
 
