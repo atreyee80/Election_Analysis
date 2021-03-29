@@ -13,19 +13,20 @@
 
    1.Calculate the Total number of votes cast.
    2.
-   3.Get a complete list of candidates who received votes.
-   4.
-   5.Calculate the total number of votes each candidate received.
-   6.
-   7.Calculate the percentage of votes each candidate won.
-   8.
-   9.Determine the winner of the election based on popular vote.
+   3.
+   4.Get a complete list of candidates who received votes.
+   5.
+   6.Calculate the total number of votes each candidate received.
+   7.
+   8.Calculate the percentage of votes each candidate won.
+   9.
+   10.Determine the winner of the election based on popular vote.
 
 ##Resources
 
 -Data Source:election_results.csv
 
--Software:Python 3.8.2 ,Visual Studia Code
+-Software:Python 3.8.2 ,Visual Studio Code
 
  Using Python this task becomes automated,so this will help not only to congressional district but can 
  be use in senitorial district and local election.
@@ -40,7 +41,7 @@ There will be three ways to calculate for voting
  
   -Direct Recording Electronic
  
-The fnal result will be the total number of votes received from all this three.
+The final result will be the total number of votes received from all this three.
  
 The analysis of the election show that:
 
