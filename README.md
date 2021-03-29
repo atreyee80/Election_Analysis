@@ -1,5 +1,5 @@
 # Election_Analysis
-
+![](analysis/Total_votes.png?raw=true)
 
 
 ##Project Overview
