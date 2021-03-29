@@ -11,7 +11,7 @@
 ###The purpose of this project is:
 
    1.Calculate the Total number of votes cast.
-   2.Got a complete list of candidates who received votes.
+   2.Get a complete list of candidates who received votes.
    3.Calculate the total number of votes each candidate received.
    4.Calculate the percentage of votes each candidate won.
    5.Determine the winner of the election based on popular vote.
@@ -66,5 +66,13 @@ The analysis of the election show that:
 ![](analysis/Winner_candidate.png?raw=true)
 
  ##Challenge Overview
+ 
+ This script can be leveraged in multiple elections, right from local to senatorial and national elections. The script needs to be modified to align with the governing units like schools, cities, states etc. In certain cases, the data set needs to be enriched with additional information to build hierarchies. Like if the script is used for National elections, separate columns would be needed for Country, State, and maybe even Zones like Midwest USA, or South USA etc.
+ The script is build in such a manner that is easy to modify and scale depending on the needs of the election, and hence should be adopted by the election commissioner. 
 
  ##Challenge Summary
+
+Two changes that can be made to the dataset would be as below:
+
+1. As stated above, geographical hierarchies can be built on this data set to get more insights to the data. If the elections is at a National Level, it would make sense to build a hierarchy (using separate columns) of County -> State -> Zone -> Country
+2. Additional information regarding demographies can also be useful. The current data set does not provide valuable information about Voter turnout percentage, income levels, age or ethnicity. We can take it a step further by capturing details like age, ethnicity and income levels at a voter level. This can provide valuable insights of how votes or who does not (it's possible that a 65+ year voter usually does not vote, but most of the people between 25 - 35 years vote as an exmaple). It might also provide crucial information like rich people or males prefer a certain candidate over others, and an example. 
